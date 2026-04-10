@@ -3,7 +3,7 @@
         "name": "Text To Speech TTS \u2013 AtlasVoice",
         "slug": "text-to-audio",
         "basename": "text-to-audio/text-to-audio.php",
-        "icon": "https://ps.w.org/text-to-audio/assets/icon-256x256.png",
+        "icon": "https://ps.w.org/text-to-audio/assets/icon-256x256.gif",
         "learnMoreUrl": "https://atlasaidev.com/plugins/text-to-speech-pro/pricing/",
         "proBasenames": [
             "text-to-speech-pro/text-to-audio-pro.php",
@@ -32,7 +32,7 @@
         "name": "3D Model Viewer \u2013 AtlasAR",
         "slug": "ar-vr-3d-model-try-on",
         "basename": "ar-vr-3d-model-try-on/developer_flavor_flavor.php",
-        "icon": "https://ps.w.org/ar-vr-3d-model-try-on/assets/icon-256x256.png",
+        "icon": "https://ps.w.org/ar-vr-3d-model-try-on/assets/icon-256x256.gif",
         "learnMoreUrl": "https://wpaugmentedreality.com/3d-viewer-3d-model-viewer-augmented-reality-atlasar-pricing/",
         "proBasenames": [
             "ar-vr-3d-model-try-on-pro/ar-vr-3d-model-try-on-premium.php",
@@ -58,7 +58,7 @@
         "name": "AI Workflow Automation \u2013 AtlasAgent",
         "slug": "ai-workflow-automation-ai-agent-hub",
         "basename": "ai-workflow-automation-ai-agent-hub/ai-workflow-automation-ai-agent-hub.php",
-        "icon": "https://ps.w.org/ai-workflow-automation-ai-agent-hub/assets/icon-256x256.png",
+        "icon": "https://ps.w.org/ai-workflow-automation-ai-agent-hub/assets/icon-256x256.gif",
         "learnMoreUrl": "https://wordpress.org/plugins/ai-workflow-automation-ai-agent-hub/",
         "proBasenames": [
             "ai-workflow-automation-ai-agent-hub-pro/ai-workflow-automation-ai-agent-hub-pro.php"
