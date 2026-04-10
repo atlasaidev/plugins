@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Text To Speech TTS \u2013 AtlasVoice",
+        "slug": "text-to-audio",
+        "basename": "text-to-audio/text-to-audio.php",
+        "learnMoreUrl": "https://atlasaidev.com/plugins/text-to-speech-pro/pricing/",
+        "description": "The most user-friendly Text-to-Speech accessibility plugin for WordPress. Automatically adds an audio player with no API required.",
+        "features": [
+            "Unlimited text-to-speech conversion",
+            "51+ languages, 20-300+ voices",
+            "Customizable player design",
+            "Shortcode support with flexible attributes",
+            "Custom Post Type & ACF compatibility",
+            "No external API required (browser SpeechSynthesis)",
+            "Multilingual support (WPML, GTranslate)",
+            "Analytics & engagement tracking"
+        ]
+    },
+    {
+        "name": "3D Model Viewer \u2013 AtlasAR",
+        "slug": "ar-vr-3d-model-try-on",
+        "basename": "ar-vr-3d-model-try-on/developer_flavor_flavor.php",
+        "learnMoreUrl": "https://wpaugmentedreality.com/3d-viewer-3d-model-viewer-augmented-reality-atlasar-pricing/",
+        "description": "Display interactive 3D models and augmented reality on your WordPress & WooCommerce site for enhanced product visualization.",
+        "features": [
+            "Interactive 3D model display",
+            "Augmented Reality (AR) support",
+            "WordPress & WooCommerce integration",
+            "Mobile-optimized viewing",
+            "Customizable display options",
+            "Reduces return rates with realistic visualization",
+            "Easy product page embedding"
+        ]
+    },
+    {
+        "name": "AI Workflow Automation \u2013 AtlasAgent",
+        "slug": "ai-workflow-automation-ai-agent-hub",
+        "basename": "ai-workflow-automation-ai-agent-hub/ai-workflow-automation-ai-agent-hub.php",
+        "learnMoreUrl": "https://wordpress.org/plugins/ai-workflow-automation-ai-agent-hub/",
+        "description": "Transform WordPress into an AI-powered control center with 70+ abilities, MCP server support, and workflow builder.",
+        "features": [
+            "70+ abilities across 9 modules",
+            "Built-in MCP Server (JSON-RPC 2.0)",
+            "JWT authentication",
+            "Drag-and-drop workflow builder",
+            "Multi-provider AI support (OpenAI, Gemini, Claude)",
+            "WooCommerce AI Store Manager",
+            "Post editor AI integration"
+        ]
+    }
+]
