@@ -47,5 +47,22 @@
             "WooCommerce AI Store Manager",
             "Post editor AI integration"
         ]
+    },
+    {
+        "name": "Smart Local AI \u2013 AtlasAI",
+        "slug": "smart-local-ai",
+        "basename": "smart-local-ai/smart-local-ai.php",
+        "learnMoreUrl": "https://atlasaidev.com/smart-local-ai-pro/",
+        "description": "Browser-based private AI tools for WordPress. Semantic related posts, personalized recommendations, and automatic alt text generation \u2014 all running on-device with zero cloud costs.",
+        "features": [
+            "RelevantFlow: Semantic content recommendations",
+            "PersonaFlow: Personalized recommendations based on visitor behavior",
+            "AltGenius: Automatic alt text generation for images",
+            "Zero cost \u2014 no API keys or subscriptions needed",
+            "Privacy by architecture \u2014 all AI runs in-browser",
+            "WebGPU + WASM hardware-accelerated inference",
+            "Works with any post type including WooCommerce products",
+            "GDPR compliant \u2014 no external data transmission"
+        ]
     }
 ]
