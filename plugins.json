@@ -7,7 +7,7 @@
         "description": "The most user-friendly Text-to-Speech accessibility plugin for WordPress. Automatically adds an audio player with no API required.",
         "features": [
             "Unlimited text-to-speech conversion",
-            "51+ languages, 20-300+ voices",
+            "80+ languages, 20-300+ voices",
             "Customizable player design",
             "Shortcode support with flexible attributes",
             "Custom Post Type & ACF compatibility",
