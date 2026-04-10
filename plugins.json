@@ -33,12 +33,12 @@
         "slug": "ar-vr-3d-model-try-on",
         "basename": "ar-vr-3d-model-try-on/ar-vr-3d-model-try-on.php",
         "icon": "https://ps.w.org/ar-vr-3d-model-try-on/assets/icon-256x256.gif",
-        "learnMoreUrl": "https://wpaugmentedreality.com/3d-viewer-3d-model-viewer-augmented-reality-atlasar-pricing/",
+        "learnMoreUrl": "https://wpaugmentedreality.com/pricing/",
         "proBasenames": [
             "ar-vr-3d-model-try-on-pro/ar-vr-3d-model-try-on-premium.php",
             "ar-vr-3d-model-try-on-premium/ar-vr-3d-model-try-on-premium.php"
         ],
-        "proUrl": "https://wpaugmentedreality.com/3d-viewer-3d-model-viewer-augmented-reality-atlasar-pricing/",
+        "proUrl": "https://wpaugmentedreality.com/pricing/",
         "configureSlug": "ar-vr-3d-model-try-on",
         "isNew": false,
         "complementary": ["text-to-audio", "smart-local-ai"],
