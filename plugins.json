@@ -31,7 +31,7 @@
     {
         "name": "3D Model Viewer \u2013 AtlasAR",
         "slug": "ar-vr-3d-model-try-on",
-        "basename": "ar-vr-3d-model-try-on/developer_flavor_flavor.php",
+        "basename": "ar-vr-3d-model-try-on/ar-vr-3d-model-try-on.php",
         "icon": "https://ps.w.org/ar-vr-3d-model-try-on/assets/icon-256x256.gif",
         "learnMoreUrl": "https://wpaugmentedreality.com/3d-viewer-3d-model-viewer-augmented-reality-atlasar-pricing/",
         "proBasenames": [
