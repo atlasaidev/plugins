@@ -3,7 +3,19 @@
         "name": "Text To Speech TTS \u2013 AtlasVoice",
         "slug": "text-to-audio",
         "basename": "text-to-audio/text-to-audio.php",
+        "icon": "https://ps.w.org/text-to-audio/assets/icon-256x256.png",
         "learnMoreUrl": "https://atlasaidev.com/plugins/text-to-speech-pro/pricing/",
+        "proBasenames": [
+            "text-to-speech-pro/text-to-audio-pro.php",
+            "text-to-speech-pro-premium/text-to-audio-pro.php",
+            "text-to-audio-pro/text-to-audio-pro.php",
+            "text-to-audio-pro-premium/text-to-audio-pro.php"
+        ],
+        "proUrl": "https://atlasaidev.com/plugins/text-to-speech-pro/pricing/",
+        "configureSlug": "text-to-audio",
+        "isNew": false,
+        "complementary": ["ai-workflow-automation-ai-agent-hub", "smart-local-ai"],
+        "priority": 1,
         "description": "The most user-friendly Text-to-Speech accessibility plugin for WordPress. Automatically adds an audio player with no API required.",
         "features": [
             "Unlimited text-to-speech conversion",
@@ -20,7 +32,17 @@
         "name": "3D Model Viewer \u2013 AtlasAR",
         "slug": "ar-vr-3d-model-try-on",
         "basename": "ar-vr-3d-model-try-on/developer_flavor_flavor.php",
+        "icon": "https://ps.w.org/ar-vr-3d-model-try-on/assets/icon-256x256.png",
         "learnMoreUrl": "https://wpaugmentedreality.com/3d-viewer-3d-model-viewer-augmented-reality-atlasar-pricing/",
+        "proBasenames": [
+            "ar-vr-3d-model-try-on-pro/ar-vr-3d-model-try-on-premium.php",
+            "ar-vr-3d-model-try-on-premium/ar-vr-3d-model-try-on-premium.php"
+        ],
+        "proUrl": "https://wpaugmentedreality.com/3d-viewer-3d-model-viewer-augmented-reality-atlasar-pricing/",
+        "configureSlug": "ar-vr-3d-model-try-on",
+        "isNew": false,
+        "complementary": ["text-to-audio", "smart-local-ai"],
+        "priority": 2,
         "description": "Display interactive 3D models and augmented reality on your WordPress & WooCommerce site for enhanced product visualization.",
         "features": [
             "Interactive 3D model display",
@@ -36,7 +58,16 @@
         "name": "AI Workflow Automation \u2013 AtlasAgent",
         "slug": "ai-workflow-automation-ai-agent-hub",
         "basename": "ai-workflow-automation-ai-agent-hub/ai-workflow-automation-ai-agent-hub.php",
+        "icon": "https://ps.w.org/ai-workflow-automation-ai-agent-hub/assets/icon-256x256.png",
         "learnMoreUrl": "https://wordpress.org/plugins/ai-workflow-automation-ai-agent-hub/",
+        "proBasenames": [
+            "ai-workflow-automation-ai-agent-hub-pro/ai-workflow-automation-ai-agent-hub-pro.php"
+        ],
+        "proUrl": "https://atlasaidev.com/ai-agent-hub-pro/",
+        "configureSlug": "ai-workflow-automation-ai-agent-hub",
+        "isNew": false,
+        "complementary": ["text-to-audio", "smart-local-ai"],
+        "priority": 1,
         "description": "Transform WordPress into an AI-powered control center with 70+ abilities, MCP server support, and workflow builder.",
         "features": [
             "70+ abilities across 9 modules",
@@ -52,7 +83,16 @@
         "name": "Smart Local AI \u2013 AtlasAI",
         "slug": "smart-local-ai",
         "basename": "smart-local-ai/smart-local-ai.php",
+        "icon": "https://ps.w.org/smart-local-ai/assets/icon-256x256.png",
         "learnMoreUrl": "https://atlasaidev.com/smart-local-ai-pro/",
+        "proBasenames": [
+            "smart-local-ai-pro/smart-local-ai-pro.php"
+        ],
+        "proUrl": "https://atlasaidev.com/smart-local-ai-pro/",
+        "configureSlug": "smart-local-ai",
+        "isNew": true,
+        "complementary": ["ai-workflow-automation-ai-agent-hub", "text-to-audio"],
+        "priority": 1,
         "description": "Browser-based private AI tools for WordPress. Semantic related posts, personalized recommendations, and automatic alt text generation \u2014 all running on-device with zero cloud costs.",
         "features": [
             "RelevantFlow: Semantic content recommendations",
