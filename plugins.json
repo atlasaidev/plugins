@@ -16,16 +16,16 @@
         "isNew": false,
         "complementary": ["ai-workflow-automation-ai-agent-hub", "smart-local-ai"],
         "priority": 1,
-        "description": "The most user-friendly Text-to-Speech accessibility plugin for WordPress. Automatically adds an audio player with no API required.",
+        "description": "Convert any post, page, or WooCommerce product into natural-sounding audio. Free version uses browser SpeechSynthesis; Pro unlocks AtlasVoice AI engine, Google Cloud, OpenAI & ElevenLabs voices.",
         "features": [
-            "Unlimited text-to-speech conversion",
-            "80+ languages, 20-300+ voices",
-            "Customizable player design",
-            "Shortcode support with flexible attributes",
-            "Custom Post Type & ACF compatibility",
-            "No external API required (browser SpeechSynthesis)",
-            "Multilingual support (WPML, GTranslate)",
-            "Analytics & engagement tracking"
+            "81+ languages, 300+ AI voices (Pro)",
+            "No API required for free \u2014 instant browser-based TTS",
+            "WooCommerce product description audio",
+            "Customizable audio player with multiple designs",
+            "Shortcode & widget support for flexible placement",
+            "WPML, GTranslate & Polylang multilingual support",
+            "Custom Post Type & ACF field compatibility",
+            "Listening analytics & engagement tracking"
         ]
     },
     {
@@ -43,15 +43,16 @@
         "isNew": false,
         "complementary": ["text-to-audio", "smart-local-ai"],
         "priority": 2,
-        "description": "Display interactive 3D models and augmented reality on your WordPress & WooCommerce site for enhanced product visualization.",
+        "description": "The most feature-rich free 3D viewer & AR plugin for WordPress and WooCommerce. Unlimited 3D model uploads, native iOS & Android AR \u2014 no app downloads needed.",
         "features": [
-            "Interactive 3D model display",
-            "Augmented Reality (AR) support",
-            "WordPress & WooCommerce integration",
-            "Mobile-optimized viewing",
-            "Customizable display options",
-            "Reduces return rates with realistic visualization",
-            "Easy product page embedding"
+            "Unlimited 3D model uploads (GLB, GLTF, USDZ)",
+            "Native iOS & Android AR \u2014 no app required",
+            "WooCommerce integration with per-variation 3D models",
+            "AI 3D model generation via Tripo3D API",
+            "QR code for desktop-to-mobile AR handoff",
+            "Gutenberg block, Elementor & all page builders",
+            "Dimensions, hotspots & product configurators (Pro)",
+            "Auto compression \u2014 reduce file size up to 70% (Pro)"
         ]
     },
     {
@@ -68,15 +69,16 @@
         "isNew": false,
         "complementary": ["text-to-audio", "smart-local-ai"],
         "priority": 1,
-        "description": "Transform WordPress into an AI-powered control center with 70+ abilities, MCP server support, and workflow builder.",
+        "description": "The most complete AI integration plugin for WordPress. 80+ abilities, built-in MCP server for AI agent connectivity, AI experiments in Gutenberg, and full WooCommerce support.",
         "features": [
-            "70+ abilities across 9 modules",
-            "Built-in MCP Server (JSON-RPC 2.0)",
-            "JWT authentication",
+            "80+ abilities across 10 toggleable modules",
+            "Built-in MCP server \u2014 connect Claude, Cursor & AI agents",
+            "AI experiments in block editor (excerpts, images)",
+            "Multi-provider AI (OpenAI, Gemini, Claude)",
             "Drag-and-drop workflow builder",
-            "Multi-provider AI support (OpenAI, Gemini, Claude)",
-            "WooCommerce AI Store Manager",
-            "Post editor AI integration"
+            "JWT authentication & role-based access control",
+            "WooCommerce AI Store Manager (24 abilities)",
+            "External abilities \u2014 discover third-party plugin tools"
         ]
     },
     {
@@ -93,16 +95,16 @@
         "isNew": true,
         "complementary": ["ai-workflow-automation-ai-agent-hub", "text-to-audio"],
         "priority": 1,
-        "description": "Browser-based private AI tools for WordPress. Semantic related posts, personalized recommendations, and automatic alt text generation \u2014 all running on-device with zero cloud costs.",
+        "description": "Browser-based AI that runs 100% on-device. Semantic related posts, Netflix-style personalized recommendations, and automatic alt text \u2014 zero API costs, fully GDPR compliant.",
         "features": [
-            "RelevantFlow: Semantic content recommendations",
-            "PersonaFlow: Personalized recommendations based on visitor behavior",
-            "AltGenius: Automatic alt text generation for images",
-            "Zero cost \u2014 no API keys or subscriptions needed",
-            "Privacy by architecture \u2014 all AI runs in-browser",
-            "WebGPU + WASM hardware-accelerated inference",
-            "Works with any post type including WooCommerce products",
-            "GDPR compliant \u2014 no external data transmission"
+            "RelevantFlow \u2014 AI-powered semantic related posts",
+            "PersonaFlow \u2014 personalized recommendations (30 signals)",
+            "AltGenius \u2014 automatic image alt text generation",
+            "Zero cost \u2014 no API keys, no subscriptions, no limits",
+            "100% privacy \u2014 all AI runs in the visitor's browser",
+            "WooCommerce product recommendations",
+            "Works with any post type & custom post types",
+            "WebGPU + WASM hardware-accelerated inference"
         ]
     }
 ]
