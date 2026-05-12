@@ -47,10 +47,13 @@
         "features": [
             "Unlimited 3D model uploads (GLB, GLTF, USDZ)",
             "Native iOS & Android AR \u2014 no app required",
+            "AtlasTryOn \u2014 virtual try-on for glasses & caps (webcam, no app)",
             "WooCommerce integration with per-variation 3D models",
             "AI 3D model generation via Tripo3D API",
             "QR code for desktop-to-mobile AR handoff",
             "Gutenberg block, Elementor & all page builders",
+            "3D depth-occluded try-on overlay & multi-face detection (Pro)",
+            "HD watermark-free try-on snapshots & live calibration panel (Pro)",
             "Dimensions, hotspots & product configurators (Pro)",
             "Auto compression \u2014 reduce file size up to 70% (Pro)"
         ]
