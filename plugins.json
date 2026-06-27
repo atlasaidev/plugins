@@ -67,7 +67,7 @@
         "proBasenames": [
             "ai-workflow-automation-ai-agent-hub-pro/ai-workflow-automation-ai-agent-hub-pro.php"
         ],
-        "proUrl": "https://atlasaidev.com/ai-agent-hub-pro/",
+        "proUrl": "https://atlasaidev.com/atlas-ai-connector-pro/",
         "configureSlug": "ai-workflow-automation-ai-agent-hub",
         "isNew": false,
         "complementary": ["text-to-audio", "smart-local-ai"],
