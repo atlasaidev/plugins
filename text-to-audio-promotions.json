@@ -12,6 +12,7 @@
     "backgroundColor": "#eef6ff",
     "color": "#0b2a4a",
     "start": "2026-07-01",
-    "end": "2026-12-31"
+    "end": "2026-12-31",
+    "audience": "all",
   }
 ]
