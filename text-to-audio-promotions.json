@@ -1,18 +1,1 @@
-[
-  {
-    "hash": "tts262-local-test",
-    "dismissible": 1,
-    "content": "<h3 style=\"margin:0 0 6px\">AtlasVoice promotions — local test (TTS-262)</h3><p style=\"margin:0\">If you can see this notice on your dashboard, the free plugin is fetching and rendering the promotions feed correctly.</p>",
-    "button": {
-      "url": "https://atlasaidev.com/plugins/text-to-speech-pro/pricing/",
-      "label": "Learn more",
-      "backgroundColor": "#184c53",
-      "color": "#ffffff"
-    },
-    "backgroundColor": "#eef6ff",
-    "color": "#0b2a4a",
-    "start": "2026-07-01",
-    "end": "2026-12-31",
-    "audience": "all"
-  }
-]
+[]
