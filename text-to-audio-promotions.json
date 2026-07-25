@@ -8,5 +8,15 @@
     "end": "2026-08-31",
     "content": "<strong>Upgrade to AtlasVoice Pro</strong> \u2014 200+ AI voices, MP3 export and bulk generation, from $59/yr.",
     "button": { "label": "View pricing", "url": "admin.php?page=atlasvoice-pricing", "backgroundColor": "#184c53", "color": "#ffffff" }
+  },
+  {
+    "id": "atlasvoice-highlighting-2026-07",
+    "hash": "atlasvoice-highlighting-2026-07",
+    "audience": "all",
+    "dismissible": 1,
+    "start": "2026-07-25",
+    "end": "2026-10-31",
+    "content": "<strong>New \u2014 read-along highlighting &amp; listen to selected text.</strong> The player now highlights each sentence (and each word, with supported voices) as it reads aloud, and visitors can select any passage to hear just that part \u2014 or click a word to start reading from there. Both are off by default: turn them on under <strong>AtlasVoice \u2192 Highlight</strong>, pick your colors, optionally dim the rest of the article to help readers focus, and enable auto-scroll.",
+    "button": { "label": "Open Highlight settings", "url": "admin.php?page=text-to-audio#/highlight", "backgroundColor": "#184c53", "color": "#ffffff" }
   }
 ]
