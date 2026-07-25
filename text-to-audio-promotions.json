@@ -1,15 +1,5 @@
 [
   {
-    "id": "atlasvoice-pricing-2026-07",
-    "hash": "atlasvoice-pricing-2026-07",
-    "audience": "free",
-    "dismissible": 1,
-    "start": "2026-07-24",
-    "end": "2026-08-31",
-    "content": "<strong>Upgrade to AtlasVoice Pro</strong> \u2014 200+ AI voices, MP3 export and bulk generation, from $59/yr.",
-    "button": { "label": "View pricing", "url": "admin.php?page=atlasvoice-pricing", "backgroundColor": "#184c53", "color": "#ffffff" }
-  },
-  {
     "id": "atlasvoice-highlighting-2026-07",
     "hash": "atlasvoice-highlighting-2026-07",
     "audience": "all",
