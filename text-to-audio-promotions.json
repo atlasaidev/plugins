@@ -1,12 +1,1 @@
-[
-  {
-    "id": "atlasvoice-highlighting-2026-07",
-    "hash": "atlasvoice-highlighting-2026-07",
-    "audience": "all",
-    "dismissible": 1,
-    "start": "2026-07-25",
-    "end": "2026-10-31",
-    "content": "<strong style=\"font-size:14px;\">AtlasVoice \u2014 Text to Speech</strong><br><strong>New: read-along highlighting &amp; listen to selected text.</strong> Your player now highlights each sentence (and each word, with supported voices) as it reads aloud, and visitors can select any passage to hear just that part \u2014 or click a word to start reading from there. Both are off by default: turn them on under <strong>AtlasVoice \u2192 Highlight</strong> \u2014 choose your colors, optionally dim the rest of the article to help readers focus, and enable auto-scroll.",
-    "button": { "label": "Open Highlight settings", "url": "admin.php?page=text-to-audio#/highlight", "backgroundColor": "#184c53", "color": "#ffffff" }
-  }
-]
+[]
