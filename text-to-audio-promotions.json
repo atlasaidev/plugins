@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": "atlasvoice-dismiss-test-2026-08",
+    "hash": "atlasvoice-dismiss-test-2026-08",
+    "audience": "all",
+    "start": "2026-08-01",
+    "end": "2026-09-30",
+    "dismissible": 1,
+    "allowed_sites": [
+      "cors2.atlasaidev.com",
+      "localhost"
+    ],
+    "color": "#ffffff",
+    "backgroundColor": "#184c53",
+    "wrapperPadding": "18px 20px",
+    "content": "<h3>AtlasVoice notice test</h3><p>This notice shows only on the allowlisted test sites. Click the &times; to verify dismissal works.</p>",
+    "button": {
+      "label": "View pricing",
+      "url": "https://atlasaidev.com/pricing/",
+      "backgroundColor": "#ffffff",
+      "color": "#184c53"
+    }
+  }
+]
