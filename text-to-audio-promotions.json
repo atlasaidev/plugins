@@ -20,5 +20,63 @@
       "backgroundColor": "#ffffff",
       "color": "#184c53"
     }
+  },
+  {
+    "id": "atlasvoice-2-4-beta-free",
+    "hash": "atlasvoice-2-4-beta-1-free",
+    "audience": "free",
+    "start": "2026-09-27",
+    "end": "2026-11-30",
+    "dismissible": 1,
+    "allowed_sites": [
+      "localhost",
+      "test.atlasaidev.com",
+      "atlasaidev.com",
+      "www.atlasaidev.com",
+      "wpaugmentedreality.com",
+      "www.wpaugmentedreality.com",
+      "wpatlasmcp.com",
+      "www.wpatlasmcp.com"
+    ],
+    "color": "#ffffff",
+    "backgroundColor": "#184c53",
+    "wrapperPadding": "18px 20px",
+    "content": "<h3>Join the AtlasVoice 2.4 beta: a natural voice, free for every visitor</h3><p>Give every visitor the same clear, natural voice on every phone and browser, with audio that starts in seconds. Download the free beta, try it on a staging site, and tell us what you think. Your feedback shapes the final release.</p>",
+    "button": {
+      "label": "Download the free beta",
+      "url": "https://atlasvoice.cloud/atlasvoice-beta/?src=plugin&edition=free",
+      "backgroundColor": "#ffffff",
+      "color": "#184c53",
+      "after": "<p><small>Found a bug or have an idea? <a href=\"https://atlasaidev.com/contact-us/?utm_source=plugin&utm_medium=notice&utm_campaign=atlasvoice_2_4_beta&utm_content=free\" style=\"color:inherit\">Send us your feedback</a>.</small></p>"
+    }
+  },
+  {
+    "id": "atlasvoice-3-5-beta-pro",
+    "hash": "atlasvoice-3-5-beta-1-pro",
+    "audience": "pro",
+    "start": "2026-09-27",
+    "end": "2026-11-30",
+    "dismissible": 1,
+    "allowed_sites": [
+      "localhost",
+      "test.atlasaidev.com",
+      "atlasaidev.com",
+      "www.atlasaidev.com",
+      "wpaugmentedreality.com",
+      "www.wpaugmentedreality.com",
+      "wpatlasmcp.com",
+      "www.wpatlasmcp.com"
+    ],
+    "color": "#ffffff",
+    "backgroundColor": "#184c53",
+    "wrapperPadding": "18px 20px",
+    "content": "<h3>Join the AtlasVoice Pro 3.5 beta: 380 voices in 47 languages, included in your licence</h3><p>Try AtlasVoice Cloud, our most natural voices yet, with no API key to set up, every premium voice starting in seconds, and the right audio on translated pages. Unlock the download with your licence key, try it on a staging site, and tell us what you think. Your feedback shapes the final release.</p>",
+    "button": {
+      "label": "Download the Pro beta",
+      "url": "https://atlasvoice.cloud/atlasvoice-beta/?src=plugin&edition=pro",
+      "backgroundColor": "#ffffff",
+      "color": "#184c53",
+      "after": "<p><small>Found a bug or have an idea? <a href=\"https://atlasaidev.com/contact-us/?utm_source=plugin&utm_medium=notice&utm_campaign=atlasvoice_2_4_beta&utm_content=pro\" style=\"color:inherit\">Send us your feedback</a>.</small></p>"
+    }
   }
 ]
