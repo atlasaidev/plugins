@@ -23,6 +23,7 @@
   },
   {
     "id": "atlasvoice-2-4-beta-free",
+    "below_version": "2.4.0-beta.1",
     "hash": "atlasvoice-2-4-beta-1-free",
     "audience": "free",
     "start": "2026-09-27",
@@ -36,6 +37,7 @@
   },
   {
     "id": "atlasvoice-3-5-beta-pro",
+    "below_version": "3.5.0-beta.1",
     "hash": "atlasvoice-3-5-beta-1-pro",
     "audience": "pro",
     "start": "2026-09-27",
