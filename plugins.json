@@ -4,7 +4,7 @@
         "slug": "text-to-audio",
         "basename": "text-to-audio/text-to-audio.php",
         "icon": "https://ps.w.org/text-to-audio/assets/icon-256x256.gif",
-        "learnMoreUrl": "https://atlasaidev.com/plugins/text-to-speech-pro/pricing/",
+        "learnMoreUrl": "https://atlasvoice.cloud/atlasvoice-beta/?src=plugin&edition=free",
         "proBasenames": [
             "text-to-speech-pro/text-to-audio-pro.php",
             "text-to-speech-pro-premium/text-to-audio-pro.php",
@@ -14,18 +14,23 @@
         "proUrl": "https://atlasaidev.com/plugins/text-to-speech-pro/pricing/",
         "configureSlug": "text-to-audio",
         "isNew": false,
-        "complementary": ["ai-workflow-automation-ai-agent-hub", "smart-local-ai"],
+        "complementary": [
+            "ai-workflow-automation-ai-agent-hub",
+            "smart-local-ai"
+        ],
         "priority": 1,
-        "description": "Convert any post, page, or WooCommerce product into natural-sounding audio. Free version uses browser SpeechSynthesis; Pro unlocks AtlasVoice AI engine, Google Cloud, OpenAI & ElevenLabs voices.",
+        "description": "Turn any post, page or WooCommerce product into audio. Free uses each visitor's browser voice; Pro adds AtlasVoice's own AI voice plus Google Cloud, OpenAI & ElevenLabs voices with your own API key. New: try the AtlasVoice 2.4 public beta \u2014 a natural voice free for every visitor, and AtlasVoice Cloud with 380 voices for Pro.",
         "features": [
-            "81+ languages, 300+ AI voices (Pro)",
-            "No API required for free \u2014 instant browser-based TTS",
-            "WooCommerce product description audio",
-            "Customizable audio player with multiple designs",
-            "Shortcode & widget support for flexible placement",
-            "WPML, GTranslate & Polylang multilingual support",
-            "Custom Post Type & ACF field compatibility",
-            "Listening analytics & engagement tracking"
+            "Free browser voices \u2014 no API key, no account",
+            "AtlasVoice AI voice included with Pro, saved as an MP3",
+            "Google Cloud, OpenAI & ElevenLabs voices with your own API key (Pro)",
+            "Pronunciation rules, including numbers like 5k \u2192 5 thousand",
+            "WPML, Polylang, GTranslate & TranslatePress multilingual support",
+            "Customizable players, shortcode & block, any post type, WooCommerce & ACF",
+            "Listening analytics & Bulk MP3 with Google Cloud Storage backup (Pro)",
+            "Beta 2.4: AtlasVoice TTS \u2014 one natural voice for every visitor, 100,000 characters a month free",
+            "Beta 3.5 (Pro): AtlasVoice Cloud \u2014 380 voices in 47 languages, included in your licence",
+            "Beta 2.4: audio starts in seconds, audio box in the post editor, and a Versions rollback screen"
         ]
     },
     {
@@ -41,7 +46,10 @@
         "proUrl": "https://wpaugmentedreality.com/pricing/",
         "configureSlug": "ar-vr-3d-model-try-on",
         "isNew": false,
-        "complementary": ["text-to-audio", "smart-local-ai"],
+        "complementary": [
+            "text-to-audio",
+            "smart-local-ai"
+        ],
         "priority": 2,
         "description": "The most feature-rich free 3D viewer & AR plugin for WordPress and WooCommerce. Unlimited 3D model uploads, native iOS & Android AR \u2014 no app downloads needed.",
         "features": [
@@ -49,7 +57,8 @@
             "Native iOS & Android AR \u2014 no app required",
             "AtlasTryOn \u2014 virtual try-on for glasses & caps (webcam, no app)",
             "WooCommerce integration with per-variation 3D models",
-            "AI 3D model generation via Tripo3D API",
+            "AI 3D model generation with Tripo3D or Meshy AI",
+            "Fast pages \u2014 the 3D viewer loads only when a shopper opens a model",
             "QR code for desktop-to-mobile AR handoff",
             "Gutenberg block, Elementor & all page builders",
             "3D depth-occluded try-on overlay & multi-face detection (Pro)",
@@ -59,29 +68,34 @@
         ]
     },
     {
-        "name": "AI Workflow Automation \u2013 AtlasAgent",
+        "name": "MCP Server for WordPress \u2013 AtlasMCP",
         "slug": "ai-workflow-automation-ai-agent-hub",
         "basename": "ai-workflow-automation-ai-agent-hub/ai-workflow-automation-ai-agent-hub.php",
         "icon": "https://ps.w.org/ai-workflow-automation-ai-agent-hub/assets/icon-256x256.gif",
-        "learnMoreUrl": "https://wordpress.org/plugins/ai-workflow-automation-ai-agent-hub/",
+        "learnMoreUrl": "https://wpatlasmcp.com/",
         "proBasenames": [
             "ai-workflow-automation-ai-agent-hub-pro/ai-workflow-automation-ai-agent-hub-pro.php"
         ],
-        "proUrl": "https://atlasaidev.com/atlas-ai-connector-pro/",
+        "proUrl": "https://wpatlasmcp.com/pricing/",
         "configureSlug": "ai-workflow-automation-ai-agent-hub",
         "isNew": false,
-        "complementary": ["text-to-audio", "smart-local-ai"],
+        "complementary": [
+            "text-to-audio",
+            "smart-local-ai"
+        ],
         "priority": 1,
-        "description": "The most complete AI integration plugin for WordPress. 80+ abilities, built-in MCP server for AI agent connectivity, AI experiments in Gutenberg, and full WooCommerce support.",
+        "description": "Turn WordPress into a secure MCP server for Claude, ChatGPT, Gemini and Cursor. Connect an AI app in a few clicks, decide what each app may do, and give it unlimited abilities \u2014 including WooCommerce \u2014 with OAuth 2.1 and a full audit trail.",
         "features": [
-            "80+ abilities across 10 toggleable modules",
-            "Built-in MCP server \u2014 connect Claude, Cursor & AI agents",
-            "AI experiments in block editor (excerpts, images)",
-            "Multi-provider AI (OpenAI, Gemini, Claude)",
-            "Drag-and-drop workflow builder",
-            "JWT authentication & role-based access control",
-            "WooCommerce AI Store Manager (24 abilities)",
-            "External abilities \u2014 discover third-party plugin tools"
+            "Connect Claude, ChatGPT, Cursor, VS Code or Claude Code from the dashboard \u2014 no tokens to copy",
+            "Connections screen \u2014 see, pause or remove every AI app and access token",
+            "Read-only or full access per AI app, plus per-role access control",
+            "OAuth 2.1 with PKCE and an audit trail of every AI action",
+            "Unlimited abilities \u2014 any plugin's Abilities API tools are picked up automatically",
+            "WooCommerce AI Store Manager (24 tools) plus read-only WooCommerce REST tools",
+            "Shop with AI \u2014 customers shop your store with their own AI app (Pro)",
+            "AI in the block editor \u2014 excerpts, featured images, summaries, titles & alt text",
+            "Multi-provider AI (OpenAI, Gemini, Claude) and a workflow builder",
+            "Connection health check and a one-click Versions rollback"
         ]
     },
     {
@@ -96,7 +110,10 @@
         "proUrl": "https://atlasaidev.com/smart-local-ai-pro/",
         "configureSlug": "smart-local-ai",
         "isNew": true,
-        "complementary": ["ai-workflow-automation-ai-agent-hub", "text-to-audio"],
+        "complementary": [
+            "ai-workflow-automation-ai-agent-hub",
+            "text-to-audio"
+        ],
         "priority": 1,
         "description": "Browser-based AI that runs 100% on-device. Semantic related posts, Netflix-style personalized recommendations, and automatic alt text \u2014 zero API costs, fully GDPR compliant.",
         "features": [
