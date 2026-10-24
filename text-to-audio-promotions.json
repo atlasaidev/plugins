@@ -22,31 +22,24 @@
     }
   },
   {
-    "id": "atlasvoice-2-4-beta-free",
-    "below_version": "2.4.0-beta.1",
-    "hash": "atlasvoice-2-4-beta-1-free",
-    "audience": "free",
-    "start": "2026-09-27",
-    "end": "2026-10-10",
+    "id": "atlasvoice-halloween-2026",
+    "hash": "atlasvoice-halloween-2026",
+    "audience": "all",
+    "start": "2026-10-23",
+    "end": "2026-11-05 23:59:59",
     "dismissible": 1,
-    "allowed_sites": [],
+    "allowed_sites": [
+      "test.atlasaidev.com"
+    ],
     "color": "#ffffff",
-    "backgroundColor": "#184c53",
+    "backgroundColor": "#1d1029",
     "wrapperPadding": "20px 24px",
-    "content": "<div style=\"text-align:left\"><p style=\"margin:0 0 8px\"><span style=\"display:inline-block;background:#ffffff;color:#184c53;border-radius:12px;padding:2px 10px;font-size:12px;font-weight:600;letter-spacing:.3px\">BETA</span></p><h3 style=\"font-size:20px;line-height:1.35;margin:0 0 6px;color:#ffffff\">Join the AtlasVoice 2.4 beta: a natural voice, free for every visitor</h3><p style=\"font-size:14px;line-height:1.6;margin:0 0 14px;max-width:820px;color:#ffffff\">Give every visitor the same clear, natural voice on every phone and browser, with audio that starts in seconds. Try the free beta on a staging site and tell us what you think. Your feedback shapes the final release.</p><p style=\"margin:0\"><a href=\"https://atlasvoice.cloud/atlasvoice-beta/?src=plugin&edition=free\" target=\"_blank\" rel=\"noopener\" style=\"display:inline-block;background:#ffffff;color:#184c53;padding:9px 18px;border-radius:20px;font-size:14px;font-weight:600;text-decoration:none;margin:0 16px 6px 0\">Download the free beta</a><a href=\"https://atlasaidev.com/contact-us/?utm_source=plugin&utm_medium=notice&utm_campaign=atlasvoice_2_4_beta&utm_content=free\" target=\"_blank\" rel=\"noopener\" style=\"color:#ffffff;font-size:13px;text-decoration:underline\">Found a bug or have an idea? Send us your feedback</a></p></div>"
-  },
-  {
-    "id": "atlasvoice-3-5-beta-pro",
-    "below_version": "3.5.0-beta.1",
-    "hash": "atlasvoice-3-5-beta-1-pro",
-    "audience": "pro",
-    "start": "2026-09-27",
-    "end": "2026-10-10",
-    "dismissible": 1,
-    "allowed_sites": [],
-    "color": "#ffffff",
-    "backgroundColor": "#184c53",
-    "wrapperPadding": "20px 24px",
-    "content": "<div style=\"text-align:left\"><p style=\"margin:0 0 8px\"><span style=\"display:inline-block;background:#ffffff;color:#184c53;border-radius:12px;padding:2px 10px;font-size:12px;font-weight:600;letter-spacing:.3px\">BETA</span></p><h3 style=\"font-size:20px;line-height:1.35;margin:0 0 6px;color:#ffffff\">Join the AtlasVoice Pro 3.5 beta: 380 voices in 47 languages, included in your licence</h3><p style=\"font-size:14px;line-height:1.6;margin:0 0 14px;max-width:820px;color:#ffffff\">Try AtlasVoice Cloud, our most natural voices yet, with no API key to set up, every premium voice starting in seconds, and the right audio on translated pages. Unlock the download with your licence key, try it on a staging site, and tell us what you think.</p><p style=\"margin:0\"><a href=\"https://atlasvoice.cloud/atlasvoice-beta/?src=plugin&edition=pro\" target=\"_blank\" rel=\"noopener\" style=\"display:inline-block;background:#ffffff;color:#184c53;padding:9px 18px;border-radius:20px;font-size:14px;font-weight:600;text-decoration:none;margin:0 16px 6px 0\">Download the Pro beta</a><a href=\"https://atlasaidev.com/contact-us/?utm_source=plugin&utm_medium=notice&utm_campaign=atlasvoice_2_4_beta&utm_content=pro\" target=\"_blank\" rel=\"noopener\" style=\"color:#ffffff;font-size:13px;text-decoration:underline\">Found a bug or have an idea? Send us your feedback</a></p></div>"
+    "content": "<div style=\"text-align:left\"><p style=\"margin:0 0 8px\"><span style=\"display:inline-block;background:#ff7a1a;color:#1d1029;font-weight:700;font-size:12px;padding:2px 10px;border-radius:999px\">🎃 Halloween Sale &middot; 25 Oct &ndash; 5 Nov</span></p><p style=\"margin:0 0 6px;font-size:18px;font-weight:700;color:#ffffff\">30% off every AtlasAiDev Pro plugin</p><p style=\"margin:0;color:#ffffff\">Yearly and lifetime plans. Use code <code style=\"background:#ffffff;color:#1d1029;font-weight:700;font-size:14px;padding:3px 8px;border-radius:4px\">HALLOWEEN2026</code> at checkout.</p></div>",
+    "button": {
+      "label": "Claim 30% off",
+      "url": "https://atlasaidev.com/deals/?utm_source=text-to-audio&utm_medium=plugin_admin&utm_campaign=halloween_2026",
+      "backgroundColor": "#ff7a1a",
+      "color": "#1d1029"
+    }
   }
 ]
