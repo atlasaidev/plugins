@@ -1,0 +1,42 @@
+[
+  {
+    "id": "atlasar-3-beta-free-2026",
+    "hash": "atlasar-3-beta-free-2026",
+    "audience": "free",
+    "start": "2026-10-25",
+    "end": "2026-12-31 23:59:59",
+    "below_version": "3.0.0-beta.1",
+    "dismissible": 1,
+    "allowed_sites": [],
+    "color": "#ffffff",
+    "backgroundColor": "#0e6b5c",
+    "wrapperPadding": "18px 24px",
+    "content": "<div style=\"text-align:left\"><p style=\"margin:0 0 6px\"><span style=\"display:inline-block;background:#34e0b4;color:#04140f;font-weight:700;font-size:12px;padding:2px 10px;border-radius:999px\">Public beta</span></p><p style=\"margin:0 0 6px;font-size:18px;font-weight:700;color:#ffffff\">Try AtlasAR 3.0 before everyone else</p><p style=\"margin:0;color:#ffffff\">A 3D Library that checks every model, 3D for your whole catalogue from product photos, try-on from a photo and your products in Google’s 3D results. Your products keep their 3D models. Please try it on a test site first.</p></div>",
+    "button": {
+      "label": "Get the free beta",
+      "url": "https://cloud.wpaugmentedreality.com/atlasar-beta/?src=plugin&utm_source=ar-vr-3d-model-try-on&utm_medium=plugin_admin&utm_campaign=atlasar_3_beta&utm_content=notice_free",
+      "backgroundColor": "#34e0b4",
+      "color": "#04140f"
+    }
+  },
+  {
+    "id": "atlasar-3-beta-pro-2026",
+    "hash": "atlasar-3-beta-pro-2026",
+    "audience": "pro",
+    "start": "2026-10-25",
+    "end": "2026-12-31 23:59:59",
+    "below_version": "3.0.0-beta.1",
+    "dismissible": 1,
+    "allowed_sites": [],
+    "color": "#ffffff",
+    "backgroundColor": "#0e6b5c",
+    "wrapperPadding": "18px 24px",
+    "content": "<div style=\"text-align:left\"><p style=\"margin:0 0 6px\"><span style=\"display:inline-block;background:#f6b766;color:#2a1a05;font-weight:700;font-size:12px;padding:2px 10px;border-radius:999px\">Pro beta</span></p><p style=\"margin:0 0 6px;font-size:18px;font-weight:700;color:#ffffff\">AtlasAR Pro 4.0 beta is ready for you</p><p style=\"margin:0;color:#ffffff\">3D models made with AI in the 3D Library, hotspots and sizes, variations with any names and no AtlasAR mark for your shoppers, on the new AtlasAR 3.0. Unlock it with your licence key and install the free beta with it. Please try it on a test site first.</p></div>",
+    "button": {
+      "label": "Get the Pro beta",
+      "url": "https://cloud.wpaugmentedreality.com/atlasar-beta/?src=plugin&utm_source=ar-vr-3d-model-try-on&utm_medium=plugin_admin&utm_campaign=atlasar_3_beta&utm_content=notice_pro#pro",
+      "backgroundColor": "#f6b766",
+      "color": "#2a1a05"
+    }
+  }
+]
