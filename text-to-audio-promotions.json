@@ -1,8 +1,8 @@
 [
   {
-    "id": "bfcm-2026-atlasvoice",
+    "id": "bfcm-2026-atlasvoice-free",
     "hash": "bfcm-2026-atlasvoice",
-    "audience": "all",
+    "audience": "free",
     "start": "2026-11-25",
     "end": "2026-12-05 23:59:59",
     "dismissible": 1,
@@ -13,7 +13,26 @@
     "content": "<div style=\"text-align:left\"><p style=\"margin:0 0 8px\"><span style=\"display:inline-block;background:#facc15;color:#111827;font-weight:700;font-size:12px;padding:2px 10px;border-radius:999px\">Black Friday &amp; Cyber Monday &middot; 25 Nov &ndash; 5 Dec</span></p><p style=\"margin:0 0 6px;font-size:18px;font-weight:700;color:#ffffff\">30% off AtlasVoice Pro</p><p style=\"margin:0;color:#ffffff\">Natural AI voices, MP3 audio for every post and full listening analytics. Yearly and lifetime plans, new licences and upgrades. Use code <code style=\"background:#ffffff;color:#111827;font-weight:700;font-size:14px;padding:3px 8px;border-radius:4px\">FSBFCM2026</code> at checkout.</p></div>",
     "button": {
       "label": "Claim 30% off",
-      "url": "https://atlasaidev.com/deals/?utm_source=text-to-audio&utm_medium=plugin_admin&utm_campaign=bfcm_2026",
+      "url": "https://atlasaidev.com/deals/?utm_source=text-to-audio&utm_medium=plugin_admin&utm_campaign=bfcm_2026&utm_content=notice_free",
+      "backgroundColor": "#facc15",
+      "color": "#111827"
+    }
+  },
+  {
+    "id": "bfcm-2026-atlasvoice-pro",
+    "hash": "bfcm-2026-atlasvoice",
+    "audience": "pro",
+    "start": "2026-11-25",
+    "end": "2026-12-05 23:59:59",
+    "dismissible": 1,
+    "allowed_sites": [],
+    "color": "#ffffff",
+    "backgroundColor": "#111827",
+    "wrapperPadding": "20px 24px",
+    "content": "<div style=\"text-align:left\"><p style=\"margin:0 0 8px\"><span style=\"display:inline-block;background:#facc15;color:#111827;font-weight:700;font-size:12px;padding:2px 10px;border-radius:999px\">Black Friday &amp; Cyber Monday &middot; 25 Nov &ndash; 5 Dec</span></p><p style=\"margin:0 0 6px;font-size:18px;font-weight:700;color:#ffffff\">30% off AtlasVoice Pro</p><p style=\"margin:0;color:#ffffff\">Natural AI voices, MP3 audio for every post and full listening analytics. Yearly and lifetime plans, new licences and upgrades. Use code <code style=\"background:#ffffff;color:#111827;font-weight:700;font-size:14px;padding:3px 8px;border-radius:4px\">FSBFCM2026</code> at checkout.</p></div>",
+    "button": {
+      "label": "Claim 30% off",
+      "url": "https://atlasaidev.com/deals/?utm_source=text-to-audio&utm_medium=plugin_admin&utm_campaign=bfcm_2026&utm_content=notice_pro",
       "backgroundColor": "#facc15",
       "color": "#111827"
     }
